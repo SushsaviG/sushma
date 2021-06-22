@@ -1,0 +1,6 @@
+C:\Users\Dell\Documents\demo2\demo2\bin\Release\demo2.exe.config
+C:\Users\Dell\Documents\demo2\demo2\bin\Release\demo2.exe
+C:\Users\Dell\Documents\demo2\demo2\bin\Release\demo2.pdb
+C:\Users\Dell\Documents\demo2\demo2\obj\Release\demo2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\demo2\demo2\obj\Release\demo2.exe
+C:\Users\Dell\Documents\demo2\demo2\obj\Release\demo2.pdb

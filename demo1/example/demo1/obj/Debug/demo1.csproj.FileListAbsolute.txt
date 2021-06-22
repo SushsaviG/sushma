@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\demo1\example\demo1\bin\Debug\demo1.exe.config
+C:\Users\Dell\Documents\demo1\example\demo1\bin\Debug\demo1.exe
+C:\Users\Dell\Documents\demo1\example\demo1\bin\Debug\demo1.pdb
+C:\Users\Dell\Documents\demo1\example\demo1\obj\Debug\demo1.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\demo1\example\demo1\obj\Debug\demo1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\demo1\example\demo1\obj\Debug\demo1.exe
+C:\Users\Dell\Documents\demo1\example\demo1\obj\Debug\demo1.pdb

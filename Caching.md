@@ -13,8 +13,7 @@
 Types of Caching:
    1) Output Caching
    2) Fragment Caching
-   3) Data Caching <br/>
-    
+   
 ### 1) Output Caching
 
 output caching is used to store complete output of a specific web page in the cache memory.<br/>

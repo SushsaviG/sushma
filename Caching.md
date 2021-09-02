@@ -57,40 +57,6 @@ public partial class WebForm1 : System.Web.UI.Page
 Fragment caching is used to store Fragment portion of output of a specific web page in the cache memory.<br/>
 
 
-# Validation Group
-
-The validation groups help you to group the controls in a single page and you can have separate submit buttons for each group, so that you can submit each group individually. 
-Each group can have separate validation controls.
- ```C#
- <body>
-    <form id="form1" runat="server">
-        <div>
-<asp:TextBox ID="txtOne" runat="server"></asp:TextBox>
-<asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="txtOne" ErrorMessage="Required" ValidationGroup="One"></asp:RequiredFieldValidator><br />
-
-<asp:TextBox ID="txtTwo" runat="server"></asp:TextBox>
-<asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="txtTwo" ErrorMessage="Required" ValidationGroup="One"></asp:RequiredFieldValidator><br />
-
- <asp:Button ID="Button1" runat="server" Text="Create" ValidationGroup="One" OnClick="Button1_Click" /> <br />
-
- 
-
-<asp:TextBox ID="txtThree" runat="server"></asp:TextBox>
-<asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="txtThree" ErrorMessage="Required" ValidationGroup="Two"></asp:RequiredFieldValidator><br />
-
-<asp:TextBox ID="txtFour" runat="server"></asp:TextBox>
-<asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" ControlToValidate="txtFour" ErrorMessage="Required" ValidationGroup="Two"></asp:RequiredFieldValidator><br />
-
- <asp:Button ID="Button2" runat="server" Text="Create" ValidationGroup="Two" />
-
-        </div>
-    </form>
-</body>
-```
-
-
-
-
 
       
    

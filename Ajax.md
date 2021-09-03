@@ -28,7 +28,7 @@ With Ajax, web applications can send and retrieve data from a server asynchronou
 
 ScriptManager is a server-side control.The ScriptManager control is central to Ajax functionality in ASP.NET. <br/>
 The ScriptManager manages all ASP.NET AJAX resources on a web page. It renders the AJAX library to the browser and supports partial page rendering. <br/>
- It also manages partial page uploads and provide access to web service method. Without script manager we can't use AJAX controls on the web page.
+Without script manager we can't use AJAX controls on the web page.
  
 ### 2) UpdatePanel
 

@@ -20,7 +20,6 @@ With Ajax, web applications can send and retrieve data from a server asynchronou
 
 ### Advantages
 - Reduces the traffic travels between the client and the server. 
-- No cross browser pain.
 - Better interactivity and responsiveness.
 
 ### Basic Controls of ASP.NET AJAX

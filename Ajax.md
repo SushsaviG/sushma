@@ -11,9 +11,17 @@ With Ajax, web applications can send and retrieve data from a server asynchronou
 - carries data in XML and json format
 - does not refresh the browser to receive data from server
 
+
+![ajax2](https://user-images.githubusercontent.com/86051136/131979158-56307141-0bef-4845-a88f-20eb997a4c53.png)
+
 ### AJAX Examples <br/>
 - Facebook like and comments 
 - youtube like and comments
+
+### Advantages
+- Reduces the traffic travels between the client and the server. 
+- No cross browser pain.
+- Better interactivity and responsiveness.
 
 ### Basic Controls of ASP.NET AJAX
 

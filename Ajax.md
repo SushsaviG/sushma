@@ -75,7 +75,7 @@ namespace AjaxApp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Label1.Text = DateTime.Now.ToLongTimeString();
+            Label2.Text = DateTime.Now.ToLongTimeString();
 
         }
 

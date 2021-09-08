@@ -1,7 +1,7 @@
 ## Routing in ASP.NET
  - Routing is a process through which the application matches any incoming URL path and execute the corresponding action methods of ASP.net MVC. 
  - Routing is a pattern matching system that is responsible for mapping incoming browser requests to specified MVC controller actions.
- - routing engine uses the route table for matching the incoming request.
+ - Routing engine uses the route table for matching the incoming request.
  - Route config file is used for adding route rules.
  - We invoke a RegisterRoutes methods in the App_Start() method.
  
@@ -145,7 +145,7 @@ namespace MvcApplication.Controllers
 ```
 ## Action Result
  - It is the base class for all types that an action method Returns.
- - actionresult in MVC defines Framework level operation
+ - Actionresult in MVC defines Framework level operation.
  -  It encapsulate the result of an action Method .
  -  Actionresult can return a file to response, view to response, JSON to response <br/>
   

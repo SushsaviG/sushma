@@ -90,26 +90,6 @@ List of Standard HTML Helpers
     @Html.ListBox() - The ListBox helper method creates html ListBox with scrollbar on browser
 
  
-
-## 2. Strongly-Typed HTML Helper 
-
-The Strongly-Typed HTML helper takes a lambda as a parameter that tells the helper, which element of the model to be utilized in the typed view. <br>
-The Strongly typed views are used for rendering specific sorts of model objects, rather than using the overall View-Data structure. 
-
-List of Standard HTML Helpers 
-
-
-  @Html.HiddenFor()<br>
-  @Html.LabelFor()<br>
-  @Html.TextBoxFor()<br>
-  @Html.RadioButtonFor()<br>
-  @Html.DropDownListFor()<br>
-  @Html.CheckBoxFor()<br>
-  @Html.TextAreaFor()<br>
-  @Html.PasswordFor()<br>
-  @Html.ListBoxFor()<br>
-
-
 # Web API
 The ASP.NET Web API is an extensible framework for building HTTP based services that can be accessed in different applications on different platforms 
 such as web, windows, mobile etc. It works more or less the same way as ASP.NET MVC web application except that it sends data as a response instead of 

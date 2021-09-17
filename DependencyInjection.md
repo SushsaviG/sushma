@@ -22,11 +22,6 @@ The advantage of this approach is that if in future ObjectB has any modification
 - Improves code maintainability
 - Improves application testing
 
-### The Dependency Injection pattern involves 3 types of classes.
-
-1) Client Class: The client class (dependent class) is a class which depends on the service class
-2) Service Class: The service class (dependency) is a class that provides service to the client class.
-3) Injector Class: The injector class injects the service class object into the client class.
 
 ### Types of Dependency Injection
  the injector class injects the service (dependency) to the client (dependent). <br>

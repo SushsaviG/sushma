@@ -12,6 +12,9 @@ This is a pattern using which decoupling (or loose-coupling) across components c
 In this case, ObjectB implements an interface, which is passed to ObjectA. Hence ObjectB is not instantiated using new in ObjectA. <br>
 The advantage of this approach is that if in future ObjectB has any modifications, ObjectA need not be refreshed.
 
+
+![dependency-injection-mvc](https://user-images.githubusercontent.com/86051136/133748055-c80cbd2c-9b53-4a35-972d-33c2d3b71a82.png)
+
 ### The advantages of using Dependency Injection pattern and Inversion of Control are the following:
 
 - Reduces class coupling

@@ -24,7 +24,7 @@
 - Is not a security feature, CORS relaxes security. An API is not safer by allowing CORS.
 - Allows a server to explicitly allow some cross-origin requests while rejecting others.
 
-# ways to enable Cros
+### ways to enable Cros
 
 - Middleware using default policy
 - Endpoint Routing

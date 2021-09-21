@@ -17,6 +17,18 @@
 | 7) 4.8 is the last version of .net Framework                   |7) 3.0 is the last version of .net core                                 |
 | 8) A high-performance and scalable system without UI           |8) .NET Core is much faster.                                            |
 
+
+# ASP.NET MVC v/s ASP.NET Core
+
+| ASP.NET MVC                                                             |                          ASP.NET Core MVC                                                           |
+|--------|------|
+| Platform support: Windows only            | Windows,Linux,Mac OS        |
+|Architecture:Based on .net framework only | Based on .net framework and core framework   |
+|Not Open Source|Open Source|
+|It is not cross-platform|It is cross-platform can use it on Windows, Mac or Linux|
+| To build up our project  we use DI containers like Unity, AutoFac, StructureMap|In ASP.NET Core dependency injection is inbuilt, no setup is required for DI|
+|  But setup is required for DI|   |
+
 # CORS 
 - Cross Origin Resource Sharing (CORS) allows a server to relax the same-origin policy.
 - Using CORS, a server can explicitly allow some cross-origin requests while rejecting others.
@@ -30,16 +42,6 @@
 - Endpoint Routing
 - EnableCors attribute
 
-# ASP.NET MVC v/s ASP.NET Core
-
-| ASP.NET MVC                                                             |                          ASP.NET Core MVC                                                           |
-|--------|------|
-| Platform support: Windows only            | Windows,Linux,Mac OS        |
-|Architecture:Based on .net framework only | Based on .net framework and core framework   |
-|Not Open Source|Open Source|
-|It is not cross-platform|It is cross-platform can use it on Windows, Mac or Linux|
-| To build up our project  we use DI containers like Unity, AutoFac, StructureMap|In ASP.NET Core dependency injection is inbuilt, no setup is required for DI|
-|  But setup is required for DI|   |
 
 
 

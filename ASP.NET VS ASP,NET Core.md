@@ -33,7 +33,7 @@
 - Cross Origin Resource is a W3C standard that allows  server to relax the same-origin policy.
 - Using CORS, a server can explicitly allow some cross-origin requests while rejecting others.
 - CORS is safer and more flexible than earlier techniques. 
-- Is not a security feature, CORS relaxes security. An API is not safer by allowing CORS.
+- An API is not safer by allowing CORS.
 - Allows a server to explicitly allow some cross-origin requests while rejecting others.
 
 ### ways to enable Cros

@@ -36,6 +36,15 @@
 - An API is not safer by allowing CORS.
 - Allows a server to explicitly allow some cross-origin requests while rejecting others.
 
+### These two url have same origin
+- http://example.net/foo.html
+- http://example.net/bar.html
+
+### different origin
+- http://example.net (different domain)
+
+
+
 ### ways to enable Cros
 
 - Middleware using default policy

@@ -1,4 +1,6 @@
-# AddSingleton ,AddScoped ,AddTransient
+# Dependency Injection in .Net Core
+Dependency Injection (DI) is a design pattern which supports the development of loosely coupled code, and it’s also one of the <br>
+SOLID principles (Dependency Inversion Principle).
 
 ## AddSingleton:
 - With Singleton service there is only single instance.
@@ -10,3 +12,5 @@
 ## AddTransient
 - With a Transient service a new  instance is provided every time an instance is requested whether it is in the scope of the same http request
 or across different http request.
+
+

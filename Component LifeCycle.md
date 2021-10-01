@@ -4,7 +4,7 @@
   - Called before ngOnInit() (if the component has bound inputs) and whenever one or more data-bound input properties change.
   
 - ngOnInit()
-  - Initialize the directive or component after Angular first displays the data-bound properties and sets the directive or component's input properties.
+  - Initialize the directive or component after Angular first displays the data-bound properties and sets  component's input properties.
   - Called once, after the first ngOnChanges(). ngOnInit() is still called even when ngOnChanges() is not (which is the case when there are no template-bound inputs).
   
 - ngDoCheck()
@@ -24,6 +24,7 @@
   - Called once after the first ngAfterContentChecked().
   
 - ngAfterViewChecked()
+  - Called after all the content is initialized and checked.
   - Respond after Angular checks the component's views and child views, or the view that contains the directive.
   - Called after the ngAfterViewInit() and every subsequent ngAfterContentChecked().
   

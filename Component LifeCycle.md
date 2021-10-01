@@ -29,7 +29,7 @@
   - Called after the ngAfterViewInit() and every subsequent ngAfterContentChecked().
   
 - ngOnDestroy()
- - Cleanup just before Angular destroys the directive or component. Unsubscribe Observables and detach event handlers to avoid memory leaks.
- - Called immediately before Angular destroys the directive or component.
+  - Cleanup just before Angular destroys the directive or component. Unsubscribe Observables and detach event handlers to avoid memory leaks.
+  - Called immediately before Angular destroys the directive or component.
   
 
